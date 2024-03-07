@@ -13,7 +13,7 @@ export function Main() {
                         <div>
                             <i id="logo2" className="fa-brands fa-facebook-messenger"><a href="https://m.me/angela.delima.165"></a></i>
                         </div>
-                        <a href="https://www.facebook.com/messages/t" target="_blank">Messenger</a>
+                        <a href="https://m.me/angela.delima.165" target="_blank">Messenger</a>
                     </li>
                     <li id=" linha3">
                         <div>
