@@ -5,7 +5,7 @@ export function Main() {
                 <ul>
                     <li id=" linha1">
                         <div>
-                            <i id="logo1" className="fa-brands fa-instagram"><a href=""></a></i>
+                            <i id="logo1" className="fa-brands fa-instagram"><a href="https://www.instagram.com/felicitafestasrio?igsh=dm5mYW4ydXpodzE4"></a></i>
                         </div>
                         <a href="https://www.instagram.com/felicitafestasrio?igsh=dm5mYW4ydXpodzE4" target="_blank">Instagram</a>
                     </li>
@@ -17,13 +17,13 @@ export function Main() {
                     </li>
                     <li id=" linha3">
                         <div>
-                            <i id="logo3" className="fa-brands fa-facebook"><a href=""></a></i>
+                            <i id="logo3" className="fa-brands fa-facebook"><a href="https://www.facebook.com/angela.delima.165/"></a></i>
                         </div>
                         <a href="https://www.facebook.com/angela.delima.165/" target="_blank">Facebook</a>
                     </li>
                     <li id=" linha4">
                         <div id="divWPP">
-                            <i id="logo4" className="fa-brands fa-whatsapp"></i>
+                            <i id="logo4" className="fa-brands fa-whatsapp"><a href="https://wa.me/5521981315814"></a></i>
                         </div>
                         <a href="https://wa.me/5521981315814" target="_blank">Whatsapp</a>
                     </li>
