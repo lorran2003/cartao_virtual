@@ -6,7 +6,7 @@
     font-family: "Nunito", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
-    color: #000;
+    color: #eee;
 }
 
 .container {
@@ -76,50 +76,43 @@ main .navBar ul li div {
     z-index: 1;
     position: relative;
     left: 15px;
-    background-color: #fff;
     border-radius: 10px;
-    width: 40px;
-    height: 40px;
-    padding: 5px;
-    box-shadow: 0 0 5px 2px #AA6C6F;
+    width: 50px;
+    height: 50px;
+    padding-top: 3px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    box-shadow: 0 0 2px #eee;
 }
 
-#logo1 {
-    color: #FD10B5;
+main .navBar ul li .link {
+    width: 150px;
+    height: 35px;
+    font-size: 24px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
 }
-
-#logo2 {
-    color: #0098F6;
-}
-
-#logo3 {
-    color: #075be3;
-}
-
-#logo4 {
+i{
     color: white;
 }
-
+.link1{
+    background-color: #F700D2;
+}
+.link2{
+    background-color: #0888FF;
+}
+.link3{
+    background-color: #3FE05C;
+}
 #divWPP {
     background-color: #3FE05C;
     font-size: 43px;
-    padding: 4px;
 }
 
-main .navBar ul li a {
-    width: 150px;
-    height: 32px;
-    font-size: 25px;
-    border-radius: 10px;
-    box-shadow: 2px 2px 8px #921A4B;
-    text-align: center;
-    text-decoration: none;
-    background-color: #eee;
-}
+
 @media screen and (max-width:600px) {
     body {
         width: 100%;
